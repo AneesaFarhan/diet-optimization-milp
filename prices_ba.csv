@@ -1,0 +1,25 @@
+Item,Price (ARS),Protein (g),Calories (kcal),Category
+Rice (1kg),1836,70,3600,Carbs
+Pasta (500g),1486,60,1800,Carbs
+Oats (500g),2862,65,1900,Carbs
+Cereals (500g),2488,50,1850,Carbs
+Bread ,3622,45,1300,Carbs
+Potatoes (1kg),899,20,770,Carbs
+Eggs (6),2325,36,420,Protein
+Chicken breast (500g),3824,150,825,Protein
+Canned tuna (160g),1911,40,190,Protein
+Dry lentils (500g),1899,125,1700,Protein
+Dry beans (500g),2274,105,1650,Protein
+Peanut butter (340g),4210,85,2000,Protein
+Milk (1L),1547,30,640,Dairy
+Yogurt (500g),1163,25,300,Dairy
+Cheese (200g),2125,50,800,Dairy
+Spinach (250g),2874,7,60,Vegetables
+Tomatoes (500g),500,5,90,Vegetables
+Onions (1kg),899,11,400,Vegetables
+Carrots (1kg),899,9,410,Vegetables
+Apples (1kg),1249,3,520,Fruits
+Bananas (1kg),1999,11,890,Fruits
+Strawberries (500g),6937,4,160,Fruits
+Cooking oil (500 ml),1780,0,4000,Fats
+Butter (200g),2125,2,1430,Fats
